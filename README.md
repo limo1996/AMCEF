@@ -11,12 +11,14 @@ python -m pip install django drf-yasg
 
 Apply migrations:
 ```
+cd src/
 python manage.py makemigrations
 python manage.py migrate
 ```
 
 Start local server:
 ```
+cd src/
 python manage.py runserver
 ```
 
