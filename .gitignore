@@ -1,1 +1,3 @@
 **/__pycache__/
+src/db.sqlite3
+src/posts/migrations/0001_initial.py
